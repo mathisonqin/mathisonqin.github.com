@@ -1,35 +1,40 @@
 ---
-title: webfrogs' Homepage
+title: Mathison's Homepage
 layout: page
 ---
 <style type="text/css">
 <!--
+     h1 {font-family:Georgia, serif;}
+       body {
+          font-family:"Times New Roman",Georgia,Serif;
+       }
+     #content{
+     height:200px;
+     margin:0;
+
+     }
      #li{ width:800px }
      #li li {
       float: left;
         width: 48%;
+        margin:0;
 
      }
 -->
 </style>
 
-<div id="li">
-<ul class="listing">
+
+<div id="content" align="center">
+<div id="li" align="center">
+<ul class="listing" align="left">
 {% for post in paginator.posts %}
-{% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-{% if year != y %}
-{% assign year = y %}
-<li class="listing-seperator">{{ y  }}</li>
-{% endif %}
-<li class="listing-item">
-<time datetime="{{ post.date | date:"%Y-%m-%d"  }}">{{ post.date | date:"%Y-%m-%d"  }}</time>
-<a href="{{ post.url  }}" title="{{ post.title  }}">{{ post.title  }}</a>
-</li>
+<li><span>{{ post.date | date_to_string  }}</span> &raquo; <a href="{{ post.url  }}">{{ post.title  }}</a></li>
 {% endfor %}
 </ul>
 </div>
+</div>
 
-<div id="post-pagination" class="paginator">
+<div id="post-pagination" class="paginator" align="center">
 {% if paginator.previous_page %}
 {% if paginator.previous_page == 1 %}
 <a href="/"><前页</a>
