@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "About"
+layout: page
+title: 关于
 description: "好好学习，天天向上"
+group: navigation
 ---
 {% include JB/setup %}
 # 作者简介

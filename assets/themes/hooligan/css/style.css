@@ -12,21 +12,27 @@ html, body {
 
 /* line 18, ../_sass/_base.scss */
 body {
-  color: #bbb;
+  /*color: #bbb;*/
+  color: #ccc;
   text-shadow: 1px 1px 1px #000;
   height: 100%;
-  font-family: 'Oxygen', sans-serif;
+  /*font-family: 'Oxygen', sans-serif;*/
+  font-family:"Times New Roman",Georgia,Serif;
   font-size: 16px;
 }
 
 /* line 26, ../_sass/_base.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
-  font-weight: normal;
-  color: #999;
+  /*font-weight: normal;*/
+  font-weight: bold;
+  /*color: #999;*/
+  color: #ddd;
   text-rendering: optimizelegibility;
-  font-family: 'Advent Pro', sans-serif;
+  /*font-family: 'Advent Pro', sans-serif;*/
   /*font-family: 'Pontano Sans', sans-serif;*/
+  font-family: 'Oxygen', sans-serif;
+  /*font-family:"Times New Roman",Georgia,Serif;*/
 }
 
 /* line 35, ../_sass/_base.scss */
