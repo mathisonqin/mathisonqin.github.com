@@ -11,6 +11,11 @@ paginate: 20
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
+name: mathison's blog
+description: 记录感悟
+url: http://mathisonqin.github.io
+
+
 title : mathison's blog
 tagline: 知易行难
 author :
