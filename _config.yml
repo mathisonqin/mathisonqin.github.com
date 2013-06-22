@@ -17,8 +17,9 @@ author :
   name : mathison
   email : qinlei.hello@gmail.com 
   github : mathisonqin 
-  twitter : username
-  feedburner : feedname
+  #weibo : 
+  #twitter : username
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

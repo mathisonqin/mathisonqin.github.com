@@ -1,32 +1,11 @@
 ---
-layout: page
-title: 关于
-description: "好好学习，天天向上"
-group: navigation
+layout: post
+title: "code style"
+description: ""
+category: example
+tags: [code style, example]
 ---
 {% include JB/setup %}
-# 作者简介
-## 教育背景
-### 秦磊，2006-2010年毕业于中南大学
->* china is a good country
-shisho
->* my name is qinlei
-hhahahasgallajrararjleajrealjrlarjlarjlar
-arja;ejrarja;rj;earjalrjkeasreasrar
-jlajrljearlajrlajroajroarjaorejear
-
-sarasrjarar
-# 王莹小美女
-## 我爱王莹
-
--------------------------
-*   listname
-*   lst
-
-1.  china  
-    yes i am
-2.  usa
-
 here is code:
 ## google-code-prettify
 
