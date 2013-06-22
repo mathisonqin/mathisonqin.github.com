@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>ideex.name</title>
-  <link href="http://ideex.name/cn/"/>
-  <link type="application/atom+xml" rel="self" href="http://ideex.name/cn/atom.xml"/>
+  <title>mathisonqin.github.io</title>
+  <link href="http://mathisonqin.github.io/">
+  <link type="application/atom+xml" rel="self" href="http://mathisonqin.github.io/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema  }}</updated>
-  <id>http://ideex.name/cn/</id>
+  <id>http://mathisonqin.github.io/</id>
   <author>
-    <name>Karl Luo</name>
+    <name>mathisonqin</name>
     <email>ideexto@gmail.com</email>
   </author>
 
@@ -21,8 +21,8 @@ layout: nil
     <title>{{ post.title | xml_escape  }}</title>
     <updated>{{ post.date | date_to_xmlschema  }}</updated>
     <author>
-      <name>Karl Luo</name>
-      <uri>http://ideex.name/cn/</uri>
+      <name>mathisonqin</name>
+      <uri>http://mathisonqin.github.io/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape  }}</content>
   </entry>
