@@ -2,14 +2,14 @@
 layout : post
 title : "重装win7后修复ubuntu启动项"
 description : "重装win7后修复ubuntu启动项"
-category : problem
+category : learning 
 tags: [ubuntu, boot]
 ---
 {% include JB/setup %}
-## 问题描述
+##问题描述
 电脑在安装了win7系统之后，又通过硬盘安装的方式安装了ubuntu系统。后来win7系统重装，导致ubuntu引导项丢失。
 
-## 问题解决
+##问题解决
 之前遇到这个问题，我都是不假思索就直接重新安装ubuntu，其实，ubuntu系统并没有被破坏，它仍然安装在我电脑的最后一个硬盘分区中，只是缺少了一个开机引导项来引导ubuntu,使用EasyBCD重新建立ubuntu的引导项即可解决该问题。
 
 下面是EasyBCD的界面：  

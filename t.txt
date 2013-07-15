@@ -1,0 +1,144 @@
+匹配到二进制文件 ./.git/index
+./assets/themes/hooligan/css-social-buttons/css/zocial.stripped.css:100:.zocial.disqus:before {content: "\E030";}
+./assets/themes/hooligan/css-social-buttons/css/zocial.css:246:.zocial.disqus:before {content: "\E030";}
+./assets/themes/hooligan/css-social-buttons/css/zocial.css:332:.zocial.disqus {background-color: #5d8aad;}
+./assets/themes/hooligan/css-social-buttons/sample.html:83:	<a href="#" class="zocial disqus">Sign in with Disqus</a>
+./assets/themes/hooligan/css-social-buttons/sample.html:176:	<a href="#" class="zocial icon disqus">Sign in with Disqus</a>
+./assets/themes/mark-reid/css/screen.css:73:#page, #disqus_thread {
+./assets/themes/mark-reid/css/screen.css:81:#page, #disqus_thread {
+./assets/themes/mark-reid/css/screen.css:87:#disqus_thread { padding-top: 0; }
+./assets/themes/mark-reid/css/screen.css:371:#disqus_thread {
+./_site/problem/restful-open-api-problem.html:84:  <div id="disqus_thread"></div>
+./_site/problem/restful-open-api-problem.html:86:    var disqus_developer = 1;
+./_site/problem/restful-open-api-problem.html:87:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/problem/restful-open-api-problem.html:91:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/problem/restful-open-api-problem.html:95:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/problem/restful-open-api-problem.html:96:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/problem/ubuntu-boot.html:96:  <div id="disqus_thread"></div>
+./_site/problem/ubuntu-boot.html:98:    var disqus_developer = 1;
+./_site/problem/ubuntu-boot.html:99:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/problem/ubuntu-boot.html:103:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/problem/ubuntu-boot.html:107:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/problem/ubuntu-boot.html:108:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/plan/learning-plan.html:109:  <div id="disqus_thread"></div>
+./_site/plan/learning-plan.html:111:    var disqus_developer = 1;
+./_site/plan/learning-plan.html:112:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/plan/learning-plan.html:116:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/plan/learning-plan.html:120:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/plan/learning-plan.html:121:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/assets/themes/hooligan/css-social-buttons/css/zocial.stripped.css:100:.zocial.disqus:before {content: "\E030";}
+./_site/assets/themes/hooligan/css-social-buttons/css/zocial.css:246:.zocial.disqus:before {content: "\E030";}
+./_site/assets/themes/hooligan/css-social-buttons/css/zocial.css:332:.zocial.disqus {background-color: #5d8aad;}
+./_site/assets/themes/hooligan/css-social-buttons/sample.html:83:	<a href="#" class="zocial disqus">Sign in with Disqus</a>
+./_site/assets/themes/hooligan/css-social-buttons/sample.html:176:	<a href="#" class="zocial icon disqus">Sign in with Disqus</a>
+./_site/assets/themes/mark-reid/css/screen.css:73:#page, #disqus_thread {
+./_site/assets/themes/mark-reid/css/screen.css:81:#page, #disqus_thread {
+./_site/assets/themes/mark-reid/css/screen.css:87:#disqus_thread { padding-top: 0; }
+./_site/assets/themes/mark-reid/css/screen.css:371:#disqus_thread {
+./_site/changelog.md:39:    - 0.2.4 : @tommyblue Updated disqus comments provider to be compatible with posts imported from Wordpress. #47
+./_site/skill/delete-garbled-file.html:95:  <div id="disqus_thread"></div>
+./_site/skill/delete-garbled-file.html:97:    var disqus_developer = 1;
+./_site/skill/delete-garbled-file.html:98:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/skill/delete-garbled-file.html:102:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/skill/delete-garbled-file.html:106:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/skill/delete-garbled-file.html:107:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/Markdown-Syntax-CN/footer.html:7:<div id="disqus_thread"></div>
+./_site/Markdown-Syntax-CN/footer.html:10:    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
+./_site/Markdown-Syntax-CN/footer.html:15:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/Markdown-Syntax-CN/footer.html:19:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/Markdown-Syntax-CN/footer.html:20:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/Markdown-Syntax-CN/basic.html:281:<div id="disqus_thread"></div>
+./_site/Markdown-Syntax-CN/basic.html:284:    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
+./_site/Markdown-Syntax-CN/basic.html:289:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/Markdown-Syntax-CN/basic.html:293:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/Markdown-Syntax-CN/basic.html:294:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/Markdown-Syntax-CN/index.html:800:<div id="disqus_thread"></div>
+./_site/Markdown-Syntax-CN/index.html:803:    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
+./_site/Markdown-Syntax-CN/index.html:808:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/Markdown-Syntax-CN/index.html:812:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/Markdown-Syntax-CN/index.html:813:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/shard-table.html:88:  <div id="disqus_thread"></div>
+./_site/shard-table.html:90:    var disqus_developer = 1;
+./_site/shard-table.html:91:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/shard-table.html:95:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/shard-table.html:99:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/shard-table.html:100:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/example/code-style.html:219:  <div id="disqus_thread"></div>
+./_site/example/code-style.html:221:    var disqus_developer = 1;
+./_site/example/code-style.html:222:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/example/code-style.html:226:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/example/code-style.html:230:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/example/code-style.html:231:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/example/first-blog.html:84:  <div id="disqus_thread"></div>
+./_site/example/first-blog.html:86:    var disqus_developer = 1;
+./_site/example/first-blog.html:87:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/example/first-blog.html:91:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/example/first-blog.html:95:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/example/first-blog.html:96:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/example/jekyll-introduction.html:493:  <div id="disqus_thread"></div>
+./_site/example/jekyll-introduction.html:495:    var disqus_developer = 1;
+./_site/example/jekyll-introduction.html:496:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/example/jekyll-introduction.html:500:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/example/jekyll-introduction.html:504:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/example/jekyll-introduction.html:505:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_site/lxr-for-ubuntu.html:104:  <div id="disqus_thread"></div>
+./_site/lxr-for-ubuntu.html:106:    var disqus_developer = 1;
+./_site/lxr-for-ubuntu.html:107:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_site/lxr-for-ubuntu.html:111:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_site/lxr-for-ubuntu.html:115:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_site/lxr-for-ubuntu.html:116:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./changelog.md:39:    - 0.2.4 : @tommyblue Updated disqus comments provider to be compatible with posts imported from Wordpress. #47
+./Markdown-Syntax-CN/footer.html:7:<div id="disqus_thread"></div>
+./Markdown-Syntax-CN/footer.html:10:    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
+./Markdown-Syntax-CN/footer.html:15:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./Markdown-Syntax-CN/footer.html:19:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./Markdown-Syntax-CN/footer.html:20:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./Markdown-Syntax-CN/basic.html:281:<div id="disqus_thread"></div>
+./Markdown-Syntax-CN/basic.html:284:    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
+./Markdown-Syntax-CN/basic.html:289:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./Markdown-Syntax-CN/basic.html:293:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./Markdown-Syntax-CN/basic.html:294:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./Markdown-Syntax-CN/index.html:800:<div id="disqus_thread"></div>
+./Markdown-Syntax-CN/index.html:803:    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
+./Markdown-Syntax-CN/index.html:808:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./Markdown-Syntax-CN/index.html:812:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./Markdown-Syntax-CN/index.html:813:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_theme_packages/hooligan/assets/themes/hooligan/css-social-buttons/css/zocial.stripped.css:100:.zocial.disqus:before {content: "\E030";}
+./_theme_packages/hooligan/assets/themes/hooligan/css-social-buttons/css/zocial.css:246:.zocial.disqus:before {content: "\E030";}
+./_theme_packages/hooligan/assets/themes/hooligan/css-social-buttons/css/zocial.css:332:.zocial.disqus {background-color: #5d8aad;}
+./_theme_packages/hooligan/assets/themes/hooligan/css-social-buttons/sample.html:83:	<a href="#" class="zocial disqus">Sign in with Disqus</a>
+./_theme_packages/hooligan/assets/themes/hooligan/css-social-buttons/sample.html:176:	<a href="#" class="zocial icon disqus">Sign in with Disqus</a>
+./_theme_packages/mark-reid/assets/themes/mark-reid/css/screen.css:73:#page, #disqus_thread {
+./_theme_packages/mark-reid/assets/themes/mark-reid/css/screen.css:81:#page, #disqus_thread {
+./_theme_packages/mark-reid/assets/themes/mark-reid/css/screen.css:87:#disqus_thread { padding-top: 0; }
+./_theme_packages/mark-reid/assets/themes/mark-reid/css/screen.css:371:#disqus_thread {
+匹配到二进制文件 ./_layouts/.post.html.un~
+匹配到二进制文件 ./_layouts/.default.html.un~
+./_includes/JB/comments:4:{% when "disqus" %}
+./_includes/JB/comments:5:  {% include JB/comments-providers/disqus %}
+./_includes/JB/comments-providers/disqus:1:<div id="disqus_thread"></div>
+./_includes/JB/comments-providers/disqus:3:    {% if site.safe == false %}var disqus_developer = 1;{% endif %}
+./_includes/JB/comments-providers/disqus:4:    var disqus_shortname = '{{ site.JB.comments.disqus.short_name }}'; // required: replace example with your forum shortname
+./_includes/JB/comments-providers/disqus:8:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_includes/JB/comments-providers/disqus:12:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_includes/JB/comments-providers/disqus:13:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_includes/themes/JB/comments:4:{% when "disqus" %}
+./_includes/themes/JB/comments:5:  {% include JB/comments-providers/disqus %}
+./_includes/themes/JB/comments-providers/disqus:1:<div id="disqus_thread"></div>
+./_includes/themes/JB/comments-providers/disqus:3:    {% if site.safe == false %}var disqus_developer = 1;{% endif %}
+./_includes/themes/JB/comments-providers/disqus:4:    var disqus_shortname = '{{ site.JB.comments.disqus.short_name }}'; // required: replace example with your forum shortname
+./_includes/themes/JB/comments-providers/disqus:5:    {% if page.wordpress_id %}var disqus_identifier = '{{page.wordpress_id}} {{site.production_url}}/?p={{page.wordpress_id}}';{% endif %}
+./_includes/themes/JB/comments-providers/disqus:9:        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+./_includes/themes/JB/comments-providers/disqus:13:<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_includes/themes/JB/comments-providers/disqus:14:<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+./_includes/themes/hooligan/post.html:17:    <!--disqus-->
+./_includes/themes/hooligan/post.html:18:    <div id="disqus_thread"></div>
+./_includes/themes/hooligan/post.html:21:    var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_includes/themes/hooligan/post.html:26:         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+./_includes/themes/hooligan/post.html:30:    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+./_includes/themes/hooligan/post.html:31:    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+./_includes/themes/hooligan/post.html:75:<!-- disqus -->
+./_includes/themes/hooligan/post.html:78:  var disqus_shortname = 'mathisonqinblog'; // required: replace example with your forum shortname
+./_includes/themes/hooligan/post.html:84:    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+./_config.yml:82:    provider : disqus
+./_config.yml:83:    disqus :

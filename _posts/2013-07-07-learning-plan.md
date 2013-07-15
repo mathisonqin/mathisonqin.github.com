@@ -2,12 +2,12 @@
 layout: post
 title: "learning plan"
 description: ""
-category: plan
-tags: [计划, 学习]
+category: learning 
+tags: [jekyll1]
 ---
 {% include JB/setup %}
 
-### 1. cgi、fastcgi学习
+## 1. cgi、fastcgi学习
   1. [安装配置lighttpd](http://www.cyberciti.biz/tips/installing-and-configuring-lighttpd-webserver-howto.html)  
   2. [php fastcgi配置](http://www.cyberciti.biz/tips/lighttpd-php-fastcgi-configuration.html)  
   3. [fastcgi介绍](http://ixdba.blog.51cto.com/2895551/806622)  
